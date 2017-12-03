@@ -75,14 +75,26 @@
   Content on a third party system would not be accessed without a telecommunications interception warrant, according to the department.
   The bill also modernises the definition of "computer" in the ASIO Act, changing it to "one or more computers", "one or more computer systems", "one or more computer networks", or "any combination of the above".
   - "[F]or a warrant to be issued there needs to be ‘reasonable grounds’ for believing that access by ASIO to data in the specified computer will ‘substantially assist the collection of intelligence … in respect of a matter (the security matter) that is important in relation to security’
+  - Prison term for journalists, whistleblowers and even unknowningly sharing sensitive data, for withholding you password, for sharing
+  - indemnity from civil and criminal prosecution for asio agents.
+  - only need warrants for journalists.
+  (http://www.news.com.au/technology/online/spy-laws-passed-in-senate-asio-given-new-powers/news-story/a17a6400ad8f0e0c8517305367864e49)
+  (https://www.computerworld.com.au/article/print/555304/committee-backs-new-hacking-powers-asio/)
 
 
-#### ASD 0day disclosures:
-  - ASD recently exposed a series of serious 0day exploits for MacOS.
-  - This demonstrates that ASD is undergoing research in computer exploitation and has serious proficiency in this regard. MacOS is regarded as secure.
+
+#### Tools.
+  - Encryption.
+    - Asymmetric Encryption
+    - Device and File Encryption.
 
 
-- Behavioural aspects of security
-
-
-- Tools.
+  - Tor Browser
+  - Safe Web Browsing.
+  - Password managers.
+  - FLOSS
+  - GPG
+  - VPN
+  - Email message security
+  - Signal
+    - Encrypted messaging app abundance.
