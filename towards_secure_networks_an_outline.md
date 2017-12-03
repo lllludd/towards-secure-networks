@@ -47,9 +47,21 @@ This is not the case, of course. So privacy is a good that must be maintained. T
 
 ### Tools and Practices for Digital Security
 
+#### Assessing Tools
+
+- is it open source?
+-
+
+#### Tools by Function
+
 - Two Factor Authentication
+    - something you know plus something you have
 - Password Manager
+    - keepassx / keepassxc
+    - lastpass
+    - 1password
 - VPN
+    -
 - Messaging
 - Email
 
