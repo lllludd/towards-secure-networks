@@ -45,7 +45,8 @@
 
 ### Password Manager
 - haveibeenpownwd
--
+- https://theintercept.com/2015/03/26/passphrases-can-memorize-attackers-cant-guess/
+- https://xkcd.com/936/
 
 ### VPN
 - https://theprivacyguide.org/tutorials/understanding-vpns.html
