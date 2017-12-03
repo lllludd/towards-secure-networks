@@ -1,12 +1,10 @@
-## Contexts and Case Studies
-
-#### Context 1: You are a Person in the World.
+## Context 1: You are a Person in the World.
 
 
-##### What we know about what they know:
+##### What we know about what the State and Capital knows:
   - There is a set of Surveillance Technologies that are either legislated to be in place (Telecommunications, Metadata) or are compelled by corporate interest. These Surveillance Technologies affect everyone.
 
-### Metadata and Telecommunications Surveillance
+## State Metadata and Telecommunications Surveillance
   #### Metadata:
 - **Your ISP must retain for two years:**
 
@@ -36,13 +34,28 @@ However it is the source destination and IP addresses of your internet sessions.
 - The government has stated data retention is intended to be used for copy-rights violation.
 
 [https://www.legislation.gov.au/Details/C2015A00039]
-
 [https://www.efa.org.au/Issues/Privacy/tia.html#eiw]
-
 [http://www.smh.com.au/federal-politics/political-news/malcolm-turnbull-introduces-legislation-for-metadata-retention-scheme-20141029-11e101]
-
 [https://www.eff.org/deeplinks/2014/11/nobodys-surprise-australian-terrorism-law-may-be-used-copyright-enforcement]
-
 (https://www.aph.gov.au/About_Parliament/Parliamentary_Departments/Parliamentary_Library/pubs/BN/2012-2013/DataRetention#_Toc338835110)
-
 (http://www.zdnet.com/article/inside-australias-data-retention-proposal/)
+
+
+## The Digital Distopia of Corporate Surveillance.
+
+#### Signing up to the Panopticon: Consenting to Corporate Surveillance.
+
+#### They sell you to each other: The Databroker.
+
+#### Building Digital Distopias to make you click on ads: Machine Learning, Information Bubbles and Advertising.
+
+#### You cannot know what you cannot see: FLOSS vs World.
+
+
+
+
+## The internet is a unsafe Place.
+  - phishing
+  - malware & spyware
+  - ransomware
+  - hackerz for the lulz
