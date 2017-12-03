@@ -25,9 +25,6 @@
     - Risks We know about.
     - Metadata: ISP's
     - Domestic Police.
-    - ASIO legislation: Freedom to pwn, 2 year jail term for failure to comply,
-    - ASD: Mac Os faults.
-
 
 #### People working together against power.
 
@@ -43,18 +40,47 @@
 
 
 
-
-- Policing Methodology?
+#### Policing Methodology?
+**The Telecommunications (Interception and Access) (TIA) Act of 1979**
   - Access to real time telecommunications: NEED WARRANT
     - Includes email contentm text messages, phone calls, and internet use.
     - To obtain warrant they must suspect the person of serious crime the would carry minimum seven-year sentence.
-  - Access to stored telecommunications and content: NEED WARRANT.
+
+  - Access telecommunications and content (stored text and phone calls and browsing history stored for two years): NEED WARRANT.
     - Must suspect person of offence carrying three-year sentence.
     - Both Warrants last 90 days and can be extended.
     - Within these warrant are further classifications, such as a named person warrant and B-Party warrant, which grants access for a maximum of 45 days to the content of communications between people associated with a person under investigation. These associated people need not be suspects and could include doctors, lawyers or journalists, who might have no idea they were being investigated.
- [source](https://wiki.debian.org/SetupGuides/SecurePersonalComputer)
+[source](https://wiki.debian.org/SetupGuides/SecurePersonalComputer)
 
-  - Metadata 
+#### Metadata
+  - Metadata is the shell details of communications: WARRANT NOT REQUIRED
+    - Calls, emails and texts: sent and received and timing.
+    - Internet Browsing activities.
+    - Phone and Computer Location.
+    - Organizations other than the police can get access to this! such as foreign law enforcement agencies, the RSPCA and local councils.
+    - 104,000 NSW police access to Metadata.
+    - 64,000 VIC police
+    - 23,000 by federal police.
+    - It is mandatory for telecommunications companies and ISP's to store all data for two years.
+    - Currently there is moves to allow access to MDRS data in civil cases aswell. Is already permitted to be used in some civil cases.
+    [government list of metadata](https://www.ag.gov.au/NationalSecurity/DataRetention/Documents/Dataset.pdf)
+
+#### Other Databases:
+  - Comprehensive National Face Database. Dangers of scope creep, unpaid fine policing, [source](https://www.efa.org.au/main/wp-content/uploads/2017/10/Face-DB-release-171006.pdf)
+  - Use of Mobile Tower dumps to conduct broad scale fishing expeditions.
+  [source](https://www.efa.org.au/2014/07/07/police-mobile-tower-dumps/)
+
+#### ASIO Powers:
+  - "The amendment would enable ASIO to use a third party computer or ‘communication in transit’ in order to access data held on a target computer. If necessary to achieve the purpose, ASIO would also be able to add, copy, delete or alter data on the third party computer or communication in transit,"
+  Content on a third party system would not be accessed without a telecommunications interception warrant, according to the department.
+  The bill also modernises the definition of "computer" in the ASIO Act, changing it to "one or more computers", "one or more computer systems", "one or more computer networks", or "any combination of the above".
+  - "[F]or a warrant to be issued there needs to be ‘reasonable grounds’ for believing that access by ASIO to data in the specified computer will ‘substantially assist the collection of intelligence … in respect of a matter (the security matter) that is important in relation to security’
+
+
+#### ASD 0day disclosures:
+  - ASD recently exposed a series of serious 0day exploits for MacOS.
+  - This demonstrates that ASD is undergoing research in computer exploitation and has serious proficiency in this regard. MacOS is regarded as secure.
+
 
 - Behavioural aspects of security
 
