@@ -33,6 +33,11 @@ However it is the source destination and IP addresses of your internet sessions.
 - It is only necessary to obtain a warrant if the intention is to access the stored communications in secret. The threshold of the warrant is investigation for an offence carrying a penalty of three years prison.
 - The government has stated data retention is intended to be used for copy-rights violation.
 
+#### Other Databases and information access in state surveillance:
+  - Comprehensive National Face Database. Dangers of scope creep. [source](https://www.efa.org.au/main/wp-content/uploads/2017/10/Face-DB-release-171006.pdf)
+  - Use of Mobile Tower dumps to conduct broad scale fishing expeditions.
+  [source](https://www.efa.org.au/2014/07/07/police-mobile-tower-dumps/)
+
 ## The Digital Distopia of Corporate Surveillance.
 
 ### Signing up to the Panopticon: Consenting to Corporate Surveillance: Two examples:
@@ -95,13 +100,19 @@ However it is the source destination and IP addresses of your internet sessions.
 - Some people do this for the lulz. There is not always a profit motive. It is easy to get caught up in it all.
 
 
+### Reference
 ##### State Metadata and Telecommunications Surveillance
-  [https://www.legislation.gov.au/Details/C2015A00039]
-  [https://www.efa.org.au/Issues/Privacy/tia.html#eiw]
-  [http://www.smh.com.au/federal-politics/political-news/malcolm-turnbull-introduces-legislation-for-metadata-retention-scheme-20141029-11e101]
-  [https://www.eff.org/deeplinks/2014/11/nobodys-surprise-australian-terrorism-law-may-be-used-copyright-enforcement]
-  (https://www.aph.gov.au/About_Parliament/Parliamentary_Departments/Parliamentary_Library/pubs/BN/2012-2013/DataRetention#_Toc338835110)
-  (http://www.zdnet.com/article/inside-australias-data-retention-proposal/)
+[https://www.legislation.gov.au/Details/C2015A00039]
+[https://www.efa.org.au/Issues/Privacy/tia.html#eiw]
+[http://www.smh.com.au/federal-politics/political-news/malcolm-turnbull-introduces-legislation-for-metadata-retention-scheme-20141029-11e101]
+[https://www.eff.org/deeplinks/2014/11/nobodys-surprise-australian-terrorism-law-may-be-used-copyright-enforcement]
+(https://www.aph.gov.au/About_Parliament/Parliamentary_Departments/Parliamentary_Library/pubs/BN/2012-2013/DataRetention#_Toc338835110)
+(http://www.zdnet.com/article/inside-australias-data-retention-proposal/)
+
+
+#### Other Databases and information access in state surveillance:
+(https://www.efa.org.au/main/wp-content/uploads/2017/10/Face-DB-release-171006.pdf)
+(https://www.efa.org.au/2014/07/07/police-mobile-tower-dumps/)
 
 
 ##### The Digital Distopia of Corporate Surveillance.
