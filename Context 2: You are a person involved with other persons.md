@@ -59,11 +59,13 @@
 
 #### Metadata & Police:
 - Metadata was accessed 332,639 times last year (2016):
-These are the figures for 2015 for three agencies:
-  - 104,000 NSW police
-  - 64,000 VIC police
-  - 23,000 by federal police.
-
+These are the figures for some domestic agencies:
+- 2013-14
+  - VIC police:62,737
+  - WA police: 27,315
+  - SA: 1556
+  - Federal police: 25,726 last year (110,225 in last 5 years)
+  - NT police: 15,000 requests in the last 5 years.
 
 - In 2016 there were 61 agencies that had so far been classified as law-enforcement agencies and granted access to metadata.
 
