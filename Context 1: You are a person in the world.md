@@ -21,12 +21,12 @@
 - **The location of device used in communication.**
 
 - **IT IS NOT:** Your browsing history. Your real time location or the content of your communications.
-However it is the source destination and IP addresses of your internet sessions.
+However it is the source, destination and IP addresses of your internet sessions.
 
 
 #### Telecommunications Interception Act:
--  The real-time interception of telecommunications 'that are passing over a network' requires a warrant that will only be issued for the investigation of a serious offence that carries at least a 7 year prison sentence. Or the interception of a 'B-party' that is services likely to be used to communicate to a suspect.
-  - **It permits the interception of conversation and messages in the form of speech, music, sound, data, text, images, videos and any combination of the above.**
+-  The real-time interception of telecommunications 'that are passing over a network' requires a warrant that will only be issued for the investigation of a serious offence that carries at least a 7 year prison sentence. Or the interception of a 'B-party' that is services likely to be used to communicate to a suspect.  Both Stored data and Interception Warrants last 90 days and can be extended., Party B warrants last 45.
+  - **It permits the interception of conversation and messages in the form of speech, music, sound, data, text, images, videos and any combination of the above. and access to all stored data**
 
 
 - **Stored communications are email, sms or voice mail that have not commenced or have finished passing over the network**.
@@ -36,7 +36,7 @@ However it is the source destination and IP addresses of your internet sessions.
 - The government has stated data retention is intended to be used for copy-rights violation.
 
 #### Other Databases and information access in state surveillance:
-  - Comprehensive National Face Database. Dangers of scope creep. 
+  - Comprehensive National Face Database. Dangers of scope creep.
   - Use of Mobile Tower dumps to conduct broad scale fishing expeditions.
 
 ## The Digital Distopia of Corporate Surveillance.
