@@ -1,7 +1,7 @@
 ## Password Managers
 
 #### Why fortify the weakest link?
-- Strong encryption is strong. To try and break it is effectively impossible. To try and factor a 4096 bit RSA key a computer would require 120 Terabytes of RAM to even attempt it. We can rest assured until Quantuum computing comes around.
+- Strong encryption is strong. To try and break it is effectively impossible. To try and factor a 4096 bit RSA key a computer would require 120 Terabytes of RAM to even attempt it. We can rest relatively assured (until Quantuum computing).
 - This means the password will almost always be the weakest link
 
 #### Reusing passwords.
