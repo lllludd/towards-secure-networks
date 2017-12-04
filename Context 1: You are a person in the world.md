@@ -30,13 +30,14 @@ However it is the source destination and IP addresses of your internet sessions.
 
 
 - **Stored communications are email, sms or voice mail that have not commenced or have finished passing over the network**.
-- It is only necessary to obtain a warrant if the intention is to access the stored communications in secret. The threshold of the warrant is investigation for an offence carrying a penalty of three years prison.
+- It is only necessary to obtain a warrant if the intention is to access the stored communications in secret. The threshold of the warrant is investigation for an offence carrying a penalty of three years prison. During the 2015-16 financial year, there were 712 warrants issued for access to stored communications.
+
+
 - The government has stated data retention is intended to be used for copy-rights violation.
 
 #### Other Databases and information access in state surveillance:
-  - Comprehensive National Face Database. Dangers of scope creep. [source](https://www.efa.org.au/main/wp-content/uploads/2017/10/Face-DB-release-171006.pdf)
+  - Comprehensive National Face Database. Dangers of scope creep. 
   - Use of Mobile Tower dumps to conduct broad scale fishing expeditions.
-  [source](https://www.efa.org.au/2014/07/07/police-mobile-tower-dumps/)
 
 ## The Digital Distopia of Corporate Surveillance.
 

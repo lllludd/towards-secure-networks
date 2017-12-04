@@ -6,9 +6,9 @@
   - We may come under targeted attack from Police.
   - Our actions now affect each other.
   - It is almost impossible to hide a network in the context of metadata, so we need to be careful what we give up in addition.
-  - Good security culture means we shouldn't know what each other are trying to hide. We need broad understandings of what is safe, expected from one another and unacceptable.
+  - Good security culture means we shouldn't know what each other are trying to hide. We need broad understandings of what is safe, expected from one another, and what is unacceptable.
   - Most attempts at security in activist circles are little more than snitch-jacketing and in-groups.
-  - We need to be safe so we can be dangerous together
+  - We need to be agree on how we are to be safe so we can be dangerous together
 
 
 #### It is almost impossible to hide Networks.
@@ -22,9 +22,11 @@
 
   - Needless to say this is not practical. Not sustainable. Not able to grow in number or capacity without great inconvience and paranoia.
 
+
 ### Case studies:
 ##### Using the internets to organise dissent:
-  - Facebook Surveillance from Beeliar
+- Facebook Surveillance from Beeliar
+  -  At trial an activist from the Beeliar campaign was handed DVD's that contained 4 months of recording of their facebook feed. They had intentionally left their feed public in attempts to propagandize. This is a classic example of the use of Facebook for intelligence gathering. There are sophisticated programs that are able to perform this kind of monitoring of Facebook.
 
 
   - Signing up to Disrupt WACA
@@ -45,13 +47,26 @@
 - Pax the heavily policed individual who got got.
 
 
-#### Tin hat section:
+
+
+
+
+
+
+
+
+
+### Tin hat section:
 
 #### Metadata & Police:
-- Number of times Metadata was accessed last year:
+- Metadata was accessed 332,639 times last year (2016):
+These are the figures for 2015 for three agencies:
   - 104,000 NSW police
   - 64,000 VIC police
   - 23,000 by federal police.
+
+
+- In 2016 there were 61 agencies that had so far been classified as law-enforcement agencies and granted access to metadata.
 
 
   - Currently there is moves to allow access to metadata in civil cases aswell. Is already permitted to be used in some civil cases. With specific intentions for its use around Piracy.
@@ -71,6 +86,9 @@
 
 #### Metadata & Police:
 [https://www.efa.org.au/Issues/Privacy/tia.html#eiw]
+https://www.crikey.com.au/2016/01/18/over-60-agencies-apply-to-snoop-into-your-metadata/
+https://www.ruleoflaw.org.au/wp-content/uploads/2016/03/2016-03-15-Metadata-and-the-Rule-of-Law.pdfhttp://www.smh.com.au/technology/consumer-security/heres-how-much-access-australian-police-already-have-to-your-data-20170910-gyeq6g.html
+http://www.smh.com.au/technology/consumer-security/heres-how-much-access-australian-police-already-have-to-your-data-20170910-gyeq6g.html
 
 #### Asio Powers
   (http://www.news.com.au/technology/online/spy-laws-passed-in-senate-asio-given-new-powers/news-story/a17a6400ad8f0e0c8517305367864e49)
