@@ -70,24 +70,29 @@ However it is the source destination and IP addresses of your internet sessions.
 
 
 #### They sell you to each other: The Databroker.
-- Australian Example:
-  Woolworths, Awards cards, fuel stations and
+- **Australian Example:**
+  Woolworths bought a 50% stake in Data storage company Quantum in 2013, this has since grown to be worth around 200m. Quantum runs Woolworths data collection analysis and Personalizaiton programs. Quantum stores and aggregates data it then uses to creat targeted advertising campaigns specific to the businesses needs. Databrokers, like Quantum's, customers are the Corporate entities that seek to leverage data to influence our financial decisions, evaluate us as Customers (Woolworths, Coles, banks etc), predict our future wants (pregnancy, cars, hobbies), and protect against future risks (health insurers).
 
-- Data brokers make money by selling access to this information. Some companies deal specifically with regulated businesses purposes, such as helping employers run background checks on job applicants. Other data brokers sell or rent the data for marketing purposes.
+  - A general rule is if you are getting something cheaper or free through a program 'like flybuys, frequent fliers points etc' they are getting something too. Frequent flyer programs are leveraged for profit, including the personalizaiton of flight prices, targeted advertising, attempts at brand control etc. The danger and significance of the data sets do not come from the data that is being held by single corporate entities rather from the motivation to aggregate multiple data sets and monitor the effects on customers behaviour in real time.
 
-- There are government surveillance relationships to both data brokers and social networking sites that users should know.
 
-- **Facebook’s new ad targeting program** works with four data brokers: Acxiom, Datalogix, Epsilon, and BlueKai. Companies who want to advertise on Facebook can use the data controlled by these data brokers to build custom groups and then show those groups targeted ads on Facebook.
+- **Facebook’s new ad targeting program** works with four data brokers: Axiom, Datalogix, Epsilon, and BlueKai. Companies who want to advertise on Facebook can use the data controlled by these data brokers to build custom groups and then show those groups targeted ads on Facebook. These different data brokers use different tracking strategies. BlueKai and facebook share cookie matching data that enables the monitoring of customers behaviour accross the net, while Axiom shares hashed credentials with Facebook and other customers that are then used to monitor behaviour and affects of targeted advertising.
 
-- Spyware is a term that has been coined for malware (malicious software) that monitors your behaviour online in an attempt to sell that information for profit.
+
+- **There are government surveillance relationships to both data brokers and social networking sites**. These include the development of sophisticated social media surveillance programs that are able to automonomously aggregate and record social media posts for later investigation. This enables a faster access then accessing stored metadata or applying for Telecommunications Interception Warrants.
+
+
+- **Spyware** is a term that has been coined for malware (malicious software) that monitors your behaviour online and tracks you activity accross the internets in an attempt to sell that information for profit. The clients of Spyware controllers are corporate entities like Databrokers or the suppliers of Databrokers.
 
 ### The internet is a unsafe Place.
-- Beware the criminal hackerz: People are trying to make money out of compromising computer systems, seizing and stealing data and putting malicious programs onto a system. The most lucrative targets are corporate and state entities however they generally have better security then everyday people so we become the target.
+- Beware the criminal hackerz: People are trying to make money out of compromising computer systems, seizing and stealing data and putting malicious programs onto a system. The most lucrative targets are corporate and state entities however they generally have better security then everyday people so we can become the target of malware that is in the wild and automated to target people. Criminal Hackerz are often state or corporate entities acting anonymously.
 
-- Ransomware and other high level cyber weapons developed for Cyberwar have been leaked onto the net due to state conflict and the breaching of rival security agencies. These weapons have been monetized by other state actors. Wannacry, Bad Rabbit, notbadrabbit, Petya etc.
+- Ransomware and other high level NSA cyber weapons developed for Cyberwar have been leaked onto the net due to state conflict and the breaching of the NSA by rival security agencies. These weapons have been monetized by other state actors. Wannacry, Bad Rabbit, notbadrabbit, Petya etc.
 
-- When corporate data breaches occur the information for users is often released onto the internet. This leads to the construction of Password lists and the correlation of users data with other services. Programs can then be run to attempt compromise other acounts on other services. Similar programs can be used to attempt to brute force services based on password lists and behavioural tendencies. This is why you should not reuse passwords, you should use strong non-derivative passwords. Since even the strongest encryption is only as strong as the password. 
+- When corporate data breaches occur the information for users is often released onto the internet. This leads to the construction of Password lists and the correlation of users data with other services. Programs can then be run to attempt compromise other acounts on other services. Similar programs can be used to attempt to brute force services based on password lists and behavioural tendencies. This is why you should not reuse passwords, you should use strong non-derivative passwords. Since even the strongest encryption is only as strong as the password. You should check https://haveibeenpwned.com/ to see what log in credentials of yours have been released and consider if you are using the same password email combinations still.
+#(show have I been pwned screen shot of compromised emails)
 
+- Some people do this for the lulz. There is not always a profit motive. It is easy to get caught up in it all.
 
 
 ##### State Metadata and Telecommunications Surveillance
@@ -105,3 +110,6 @@ https://twitter.com/en/privacy
 
 ##### Databrokers
 https://www.eff.org/deeplinks/2013/04/disconcerting-details-how-facebook-teams-data-brokers-show-you-targeted-ads
+http://www.quantumdatascience.ro/
+https://www.cmo.com.au/article/553618/quantium_helps_woolworths_get_personal_customers_ceo_says/
+https://www.traveldatadaily.com/commercialising-frequent-flyer-program-member-data/
