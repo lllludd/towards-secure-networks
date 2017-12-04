@@ -41,9 +41,6 @@ This is not the case, of course. So privacy is a good that must be maintained. T
 
 - spear phishing
 
-##### Policing Methodoligies
-
-### Behavioural Aspects of Security
 
 ### Tools and Practices for Digital Security
 

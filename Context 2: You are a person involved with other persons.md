@@ -22,6 +22,10 @@
 
   - Needless to say this is not practical. Not sustainable. Not able to grow in number or capacity without great inconvience and paranoia.
 
+#### Behavioural Aspects of Security.
+- When we think of security our minds drift to cryptography and clandestine meetings, hackers and agents, dramatics. Yet the reality is that it is often a negative action that is most secure. Not sending messages, not posting on social media, not talking about what should be kept secret. Even indirect bragging is bragging. All information given regardless or it being peripheral is information.
+- Security might look like going to the beach without phones to chat to make decision about what needs to be decided. There is nothing untowards, or unexpected. There are no negative or positive patterns in data created. It is a regular thing to do.
+
 
 ### Case studies:
 ##### Using the internets to organise dissent:
@@ -79,7 +83,6 @@ These are the figures for some domestic agencies:
   - "[F]or a warrant to be issued there needs to be ‘reasonable grounds’ for believing that access by ASIO to data in the specified computer will ‘substantially assist the collection of intelligence … in respect of a matter (the security matter) that is important in relation to security’
   - Prison term for journalists, whistleblowers and even unknowningly sharing sensitive data, for withholding you password, for sharing
   - indemnity from civil and criminal prosecution for asio agents.
-
 
 
 ### References
