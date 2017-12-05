@@ -18,3 +18,7 @@
 - Lastpass (closed code)
 - Keepassxc (open source)
 - 1passwrd (paid service)
+
+#### What attacks does this protect me from?  
+- Brute forcing (the use of computer programs to guess your password).
+- Password and credential matching. (the use of data leaks to match your login details on other services)

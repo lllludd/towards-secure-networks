@@ -18,6 +18,17 @@
 - VPNarea.com : Is based in Bulgaria and required to keep no logs, with servers around the world. Is fast and reputed to be private and secure.
 - https://thatoneprivacysite.net/ has a comparison of heaps of services.
 
+#### What attacks does this protect me from?
+- Metadata retention.
+- Insecure public networks.
+- Some forms of website side tracking.
+
+#### What does this **not** do?
+- Anonymize your access to known services, such as facebook, your bank, your employment place etc.
+- Hide the fact you are using a VPN. Your ISP can see that you are using a VPN.
+- Protect from Website based tracking methods, such as browsers fingerprint, cookie matching and other spieware or malware on your machine.
+- Maximise your internet connection speed.
+
 #### References:
 https://ssd.eff.org/en/module/choosing-vpn-thats-right-you
 https://theprivacyguide.org/tutorials/understanding-vpns.html
