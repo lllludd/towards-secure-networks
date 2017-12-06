@@ -16,4 +16,7 @@
 - Tor does not protect against timing attacks. Timing attacks are the monitoring of the Tor network to determine pattern matching between data entering and exiting the network. This is incredibly difficult and expensive in theory as a huge amount of data would have to be monitored.
 - Tor does not prevent you from identifying yourself by the data you send to sites, services and communication additional protection will be needed to prevent some data being accessed.
 
-Tor is awesome and some of the crew who develop and maintain it are amazing too.
+#### How to use it.
+- Tor itself is difficult to configure. It is a program similar to a VPN, however their are many tools that help with this.
+- Some Linux distro's such as PARROT OS and PARROT OS LITE have security tools like Tor preconfigured.
+- Tor Browser is a good way to use Tor without the challange and risk of having to configure it.

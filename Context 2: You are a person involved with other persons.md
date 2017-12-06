@@ -6,9 +6,9 @@
   - We may come under targeted attack from Police.
   - Our actions now affect each other.
   - It is almost impossible to hide a network in the context of metadata, so we need to be careful what we give up in addition.
-  - Good security culture means we shouldn't know what each other are trying to hide. We need broad understandings of what is safe, expected from one another, and what is unacceptable.
+  - Good security culture means we shouldn't know what each other are trying to hide. We need broad understandings of, what is safe, expected from one another, and what is unacceptable.
   - Most attempts at security in activist circles are little more than snitch-jacketing and in-groups.
-  - We need to be agree on how we are to be safe so we can be dangerous together
+  - We need to agree on how we are to be safe so we can be dangerous together
 
 
 #### It is almost impossible to hide Networks.
@@ -17,14 +17,14 @@
   - No group messaging, text messaging or emailing on known emails. This includes encrypted messaging apps.
   - No digital transactions in similar areas.
   - Avoid areas that have cameras when together.
-  - All communication through Vpns and Tor, using unconnected encrypted emails, encrypted IM or Ricochet.
+  - All communication through Vpns, Tor or i2p, using unconnected encrypted emails, encrypted IM or Ricochet.
 
 
-  - Needless to say this is not practical. Not sustainable. Not able to grow in number or capacity without great inconvience and paranoia.
+  - Needless to say this profoundly inconvient. It is not practical. Not sustainable. Not able to grow in number or capacity without great inconvience and paranoia.
 
 #### Behavioural Aspects of Security.
-- When we think of security our minds drift to cryptography and clandestine meetings, hackers and agents, dramatics. Yet the reality is that it is often a negative action that is most secure. Not sending messages, not posting on social media, not talking about what should be kept secret. Even indirect bragging is bragging. All information given regardless or it being peripheral is information.
-- Security might look like going to the beach without phones to chat to make decision about what needs to be decided. There is nothing untowards, or unexpected. There are no negative or positive patterns in data created. It is a regular thing to do.
+- When we think of security our minds drift to cryptography and clandestine meetings, hackers and agents, dramatics. Yet the reality is that it is often a non-action that is most secure. Not sending messages, not posting on social media, not talking about what should be kept secret. Even indirect bragging is bragging. All information given regardless or it being peripheral is information.
+- Security might look like going to the beach without phones, to chat to make decision about what needs to be decided. There is nothing untowards, or unexpected. There are no negative or positive patterns in data created. It is a regular thing to do.
 
 
 ### Case studies:
