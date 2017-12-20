@@ -66,6 +66,13 @@
   - Does not protect information that is not intentionally added to the encrypted file system.
 
 
+##### Quantum Computing and Event Horizons:
+- Quantum computing will be capable of breaking asymmetric encryption. Asymmetric encryption is based of the difficulties of factoring large primes into its products. Quantum computing using Simon's Alogrithm will be able to perform factoring computations at a previously impossible.
+- Using Grover's Algorithm, symmetric encryption keys will be reduced from 2^n to 2^n/2. While this is a serious weakening of key strength, it can be solved by simply doubling the key size. In this case current standard of AES will still be usable. AES 128 was previously acceptable, AES 256 is now standard, yet Grover's will reduce AES 256 to the strength of AES 128. Meaning that is we want equivallent strength, we should shift to AES 512
+
+- Quantum computing is currently at the level of 40 qubits maximun programs. This is as if computers where still in the 70's. This will not be the case for long.
+- We need to understand the event horizon of our needs for Cryptographic safety and make our decisions about cryptography strength as a result. 
+
 #### The Power of Physics vs the world.
 - When it (usually) wins:
   - Against Interception and and stored communications access.

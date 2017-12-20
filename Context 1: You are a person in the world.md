@@ -119,6 +119,7 @@ However it is the source, destination and IP addresses of your internet sessions
 ##### The Digital Distopia of Corporate Surveillance.
 https://www.facebook.com/full_data_use_policy
 https://twitter.com/en/privacy
+**https://krebsonsecurity.com/2012/10/the-scrap-value-of-a-hacked-pc-revisited/** great graphic
 
 ##### Databrokers
 https://www.eff.org/deeplinks/2013/04/disconcerting-details-how-facebook-teams-data-brokers-show-you-targeted-ads

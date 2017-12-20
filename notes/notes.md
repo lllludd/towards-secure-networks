@@ -81,6 +81,8 @@
   (http://www.news.com.au/technology/online/spy-laws-passed-in-senate-asio-given-new-powers/news-story/a17a6400ad8f0e0c8517305367864e49)
   (https://www.computerworld.com.au/article/print/555304/committee-backs-new-hacking-powers-asio/)
 
+#### Open Source intelligence
+  - Core tools : Maltegro, Shodan, Metagoofil, Google Hacking Data Base, Foca, Exif data viewer, Social Engineering Toolkit, Information Aggregate website. Passive recon.
 
 
 #### Tools.
